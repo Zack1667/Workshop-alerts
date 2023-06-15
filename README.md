@@ -2,7 +2,7 @@
 
 ```
 A Discord Bot that will alert users in a specific channel to specified Steam workshop mods that need to be downloaded and updated,
-this will inform them of the Name, URL, When it was updated &amp; Size of the file in GB to download.
+this will inform them of the Name, URL, When it was updated & Size of the file in GB to download.
 ```
 # Pre-Requisites 
 Install the package below:
